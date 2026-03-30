@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+*.log
+.DS_Store
+
+# generated assets
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pt
+charts/*.png
+charts/*.jpg
+charts/*.jpeg
+charts/*.webp
